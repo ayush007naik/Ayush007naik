@@ -80,7 +80,9 @@ A UI/UX redesign reference for the foundation's original website.
 
 ## 🤝 Let's Connect
 
-I'm interested in collaborating on useful products, AI-powered applications and software engineering projects.
+🚀 Open to Summer 2027 internships in Software Engineering, AI Engineering, and Product Development.
+
+🤝 Always excited to build useful products, collaborate, and learn.
 
 📧 **Email:** ayu007n@gmail.com
 
